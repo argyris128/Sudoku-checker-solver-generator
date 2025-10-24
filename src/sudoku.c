@@ -1,7 +1,3 @@
-/*
-   Argyris Patramanis csd4379
-   Assignment 4 2023
-*/
 #include "sudoku.h"
 
 Grid_T backtrack;
