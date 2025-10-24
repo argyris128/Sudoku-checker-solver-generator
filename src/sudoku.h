@@ -1,9 +1,3 @@
-/********************************************************************
-   Argyris Patramanis csd4379
-   Assignment 4 2023
-   sudoku.h
-   Sudoku solver/generator interface.
-*********************************************************************/
 #include "grid.h"
 
 Grid_T sudoku_generate(int nelts, int unique);	/* Generate and return a sudoku puzzle with "approximately" nelts
