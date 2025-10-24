@@ -1,9 +1,3 @@
-/********************************************************************
-   Argyris Patramanis csd4379
-   Assignment 4 2023
-   grid.h
-   Definition of grid ADT 
-*********************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
