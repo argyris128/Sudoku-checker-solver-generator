@@ -1,7 +1,3 @@
-/*
-   Argyris Patramanis csd4379
-   Assignment 4 2023
-*/
 #include "grid.h"
 
 Grid_T grid_init(Grid_T g, int v[9][9]) {
